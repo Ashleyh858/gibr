@@ -1,0 +1,5 @@
+[project]
+name = "gibr"
+version = "0.1.0"
+description = "A smarter CLI for creating Git branches."
+requires-python = ">=3.10"
